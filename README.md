@@ -29,11 +29,16 @@ Importance in the Technology Industry:
 7. Maintenance – Provide updates, bug fixes, and support.
 
 4. Waterfall vs. Agile Methodologies
-| Aspect  | Waterfall | Agile |
-Approach  | Sequential | Iterative & Incremental |
-Flexibility| Rigid | Highly adaptable |
-Client Involvement | Limited | Continuous feedback |
-Best Use Case| Large-scale projects with well-defined requirements | Projects requiring flexibility and quick iterations |
+- Waterfall 
+ Sequential
+ Rigid
+ LimitedLarge-scale projects with well-defined requirements
+
+ -Agile
+ Iterative & Incremental 
+ Highly adaptable 
+ Continuous feedback 
+ Projects requiring flexibility and quick iterations
 
 Example Scenarios:
 - Waterfall: Government projects where requirements are fixed from the beginning.
